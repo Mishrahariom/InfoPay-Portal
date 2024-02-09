@@ -5,7 +5,7 @@
 | Email  |  mishrahariom2708@gmail.com |
 |Number  |6392560293|
 |College  |Maharana Pratap group of institutions |
-| Assignment   |**Build an application displaying characters' profiles**|
+| Assignment   |**Build an application Payment-app**|
 
   
 
