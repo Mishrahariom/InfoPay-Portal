@@ -1,0 +1,205 @@
+.logo-icon1 {
+  height: 48px;
+  width: 189.8px;
+  position: relative;
+}
+.logo-frame {
+  width: 1240px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.copyright-notice {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #3c3f44;
+  box-sizing: border-box;
+}
+.made-with {
+  height: 20px;
+  width: 87px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+}
+.div9 {
+  height: 20px;
+  width: 6px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+}
+.diamond-icon31 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  display: none;
+  min-height: 20px;
+}
+.question-unit4 {
+  height: 20px;
+  width: 95px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+}
+.link5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: #adb1b8;
+}
+.text39 {
+  height: 20px;
+  width: 106px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+}
+.text40 {
+  height: 20px;
+  width: 130px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+}
+.f-a-q2 {
+  height: 20px;
+  width: 56px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  color: #adb1b8;
+  display: inline-block;
+}
+.footer-line {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+.instagramlogo-icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+}
+.instagramlogo-wrapper {
+  border-radius: 2px;
+  background-color: #2e3035;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px;
+}
+.tiktoklogo-wrapper {
+  border-radius: 2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px;
+}
+.socials {
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.footer-logo-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 20px;
+  box-sizing: border-box;
+  max-width: 1200px;
+}
+.footer-textline {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.main-footer {
+  flex: 1;
+  background-color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 32px 0px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 1440px;
+  min-height: 316px;
+}
+.footer1 {
+  width: 100%;
+  background-color: #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  max-width: 1440px;
+  text-align: left;
+  font-size: 14px;
+  color: #7d828a;
+  font-family: "Open Sans";
+}
+
+@media screen and (max-width: 1450px) {
+  .footer-logo-container {
+    max-width: 100%;
+  }
+
+  .main-footer {
+    max-width: 100%;
+  }
+
+  .footer1 {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 825px) {
+  .div9 {
+    width: 100%;
+    height: 6px;
+  }
+
+  .footer-line {
+    flex-wrap: wrap;
+  }
+
+  .footer-textline {
+    gap: 16px;
+  }
+
+  .main-footer {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .main-footer {
+    gap: 16px;
+  }
+}

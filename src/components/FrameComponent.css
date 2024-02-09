@@ -1,0 +1,225 @@
+.text36 {
+  margin: 0;
+  height: 32px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 32px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.text37 {
+  height: 24px;
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.paragpraph3 {
+  width: 446px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 16px;
+  color: #60646c;
+}
+.button3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.still-need-help {
+  margin: 0;
+}
+.still-need-help-container {
+  align-self: stretch;
+  height: 52px;
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+  display: inline-block;
+}
+.diamond-icon29 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  display: none;
+}
+.text38 {
+  height: 22px;
+  width: 100px;
+  position: relative;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+}
+.button4 {
+  border-radius: 12px;
+  background-color: #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px;
+  gap: 8px;
+  font-size: 16px;
+  color: #edeef0;
+}
+.f-a-q-header {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  min-width: 240px;
+}
+.about-illustrations-icon {
+  height: 100px;
+  width: 157.1px;
+  position: relative;
+}
+.f-a-q-header-parent {
+  width: 446px;
+  border-radius: 16px;
+  background-color: #f9f9fb;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px;
+  box-sizing: border-box;
+  gap: 0px;
+  row-gap: 20px;
+  max-width: 100%;
+  font-size: 18px;
+}
+.heading11 {
+  width: 486px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  min-width: 486px;
+  max-width: 486px;
+}
+.question-unit-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 448px;
+  max-width: 690px;
+  font-size: 18px;
+}
+.paragrapgh {
+  width: 1240px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 20px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.faq-section-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #dddde3;
+  box-sizing: border-box;
+}
+.faq-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.faq-section-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #1c2024;
+  font-family: "Open Sans";
+}
+
+@media screen and (max-width: 1200px) {
+  .heading11 {
+    width: 100%;
+  }
+
+  .paragrapgh {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .f-a-q-header {
+    flex: 1;
+  }
+
+  .about-illustrations-icon {
+    flex: 1;
+  }
+
+  .f-a-q-header-parent {
+    flex-wrap: wrap;
+  }
+
+  .heading11 {
+    gap: 16px;
+    max-width: 100%;
+    min-width: 100%;
+  }
+
+  .question-unit-group {
+    max-width: 100%;
+    min-width: 100%;
+  }
+
+  .faq-section {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .text36 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+}
