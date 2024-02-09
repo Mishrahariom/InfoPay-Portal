@@ -1,9 +1,14 @@
 # Payment-app
 
-Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+| Name |     Hariom Mishra   |
+|--|--|
+| Email  |  mishrahariom2708@gmail.com |
+|Number  |6392560293|
+|College  |Maharana Pratap group of institutions |
+| Assignment   |**Build an application displaying characters' profiles**|
 
-To preview and run the project on your device:
+  
 
-1. Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-2. In the terminal, run `npm install`
-3. Run `npm start` to view project in browser
+> **I'm thrilled to announce the successful completion of Infopay-Portal assignment, where I incorporated advanced
+> technologies and best practices to elevate both functionality and user
+> experience.**
